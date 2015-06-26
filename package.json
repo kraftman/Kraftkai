@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/kraftkai",
+  "repository": "https://github.com/kraftman/kraftkai",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
