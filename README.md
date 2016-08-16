@@ -2,4 +2,4 @@
 
 An atom theme based on monokai
 
-![Alt text](/screnshot.png?raw=true )
+![Alt text](/screenshot.png?raw=true )
